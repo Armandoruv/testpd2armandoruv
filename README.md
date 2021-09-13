@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Bienvenido a la pagina Web de Armando Ruvalcaba
 
-You can use the [editor on GitHub](https://github.com/Armandoruv/testpd2armandoruv/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Aquí un enlace a las otras pagina [Paginas alojadas en otros sitios](https://armandoruvalcaba.000webhostapp.com)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Esta es una pagina para una practica escolar
 
-### Markdown
+### ¿Quien soy?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Soy un estudiante de Ingeniería en Sistemas en la Universidad de Sonora
 
 ```markdown
 Syntax highlighted code block
