@@ -6,7 +6,7 @@ Esta es una pagina para una practica escolar
 
 ### ¿Quien soy?
 
-Soy un estudiante de Ingeniería en Sistemas en la Universidad de Sonora
+Soy un estudiante de Ingeniería en Sistemas en la Universidad de Sonora, me gustan Dogos y los videojuegos.
 
 ```markdown
 Syntax highlighted code block
